@@ -1,0 +1,5 @@
+ http://localhost/boiler/public/api/v1/news/index
+ http://localhost/boiler/public/api/v1/informations/index
+ http://localhost/boiler/public/api/v1/events/index
+ http://localhost/boiler/public/api/v1/news/index
+ http://localhost/boiler/public/api/v1/vacancies/index

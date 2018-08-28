@@ -1,0 +1,1 @@
+<?php ob_start(); session_start(); $_SESSION['admin_id']=''; $_SESSION['admin_username']=''; unset($_SESSION['admin_id']); unset($_SESSION['admin_username']); session_destroy(); header('location:../index.php?mess=2'); ?>
